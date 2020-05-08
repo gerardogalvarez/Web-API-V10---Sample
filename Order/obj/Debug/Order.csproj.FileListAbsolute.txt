@@ -1,0 +1,44 @@
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\Jasmin.OrderSample.exe.config
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\Jasmin.OrderSample.exe
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\Jasmin.OrderSample.pdb
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\IdentityModel.dll
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\System.Net.Http.Formatting.dll
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\System.Web.Http.dll
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\System.Net.Http.Formatting.xml
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\bin\Debug\System.Web.Http.xml
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\obj\Debug\Order.csproj.CopyComplete
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\obj\Debug\Jasmin.OrderSample.exe
+D:\OneDrive - PRIMAVERA BSS\Extensibilidade\JASMIN\Create Order\Order\obj\Debug\Jasmin.OrderSample.pdb
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\Jasmin.OrderSample.exe.config
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\Jasmin.OrderSample.exe
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\Jasmin.OrderSample.pdb
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\IdentityModel.dll
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\System.Net.Http.Formatting.dll
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\System.Web.Http.dll
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\System.Net.Http.Formatting.xml
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\bin\Debug\System.Web.Http.xml
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\obj\Debug\Order.csproj.CopyComplete
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\obj\Debug\Jasmin.OrderSample.exe
+D:\OneDrive - PRIMAVERA BSS\Elevation\Aouth 2 samples\Create Order\Order\obj\Debug\Jasmin.OrderSample.pdb
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\ERPV10.OrderSample.exe.config
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\ERPV10.OrderSample.exe
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\ERPV10.OrderSample.pdb
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\Newtonsoft.Json.dll
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\System.Net.Http.Formatting.dll
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\System.Web.Http.dll
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\Newtonsoft.Json.xml
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\System.Net.Http.Formatting.xml
+C:\GITHUB_GG\Web API V10 - Sample\Order\bin\Debug\System.Web.Http.xml
+C:\GITHUB_GG\Web API V10 - Sample\Order\obj\Debug\Order.csprojAssemblyReference.cache
+C:\GITHUB_GG\Web API V10 - Sample\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\GITHUB_GG\Web API V10 - Sample\Order\obj\Debug\Order.csproj.CopyComplete
+C:\GITHUB_GG\Web API V10 - Sample\Order\obj\Debug\ERPV10.OrderSample.exe
+C:\GITHUB_GG\Web API V10 - Sample\Order\obj\Debug\ERPV10.OrderSample.pdb
